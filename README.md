@@ -1,2 +1,4 @@
-# react-typescript
-react with typescript
+Open file index.html
+
+Build
+    webpack
